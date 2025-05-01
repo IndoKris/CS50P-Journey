@@ -23,12 +23,17 @@ This folder contains **personal notes, code snippets, explanations**, and **take
 - Practicing in Python interactive mode
 - My thoughts on how logic applies before code
 
-### 🧮 Week 1 – Functions, Conditionals
-- `def`, return values, arguments
-- `if`, `elif`, `else`
-- `input()` and type casting
-- Realizing how important indentation is in Python!
-- Practiced writing small utility functions
+- #### 🧮 Week 1 – Functions, Conditionals
+- Learned how to use `if`, `elif`, and `else` for branching logic  
+- Practiced combining conditions using `and`, `or`, and `not`  
+- Explored Boolean values with `bool()` and True-False expressions  
+- Used `match` statements and saw where it’s useful compared to if/elif  
+- Tried `match case` with the `|` symbol to match multiple values in one line (e.g., `case "yes" | "y":`)  
+- Discovered how the modulo operator `%` can be used to check for even/odd numbers or divisibility  
+- Wrote compact expressions like `return True if (n % 2 == 0) else False`, and learned how this is called a conditional expression or one-liner return  
+- Also realized this can often be simplified further to just `return n % 2 == 0` for better readability  
+- Focused on writing *pythonic* code — simple, expressive, and elegant  
+- Started building small interactive programs that behave differently based on user input   
 
 ### 🔁 Week 2 – Loops
 - `while` and `for` loops
