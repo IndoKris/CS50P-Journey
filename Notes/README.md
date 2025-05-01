@@ -23,7 +23,7 @@ This folder contains **personal notes, code snippets, explanations**, and **take
 - Practicing in Python interactive mode
 - My thoughts on how logic applies before code
 
-- #### 🧮 Week 1 – Functions, Conditionals
+### 🧮 Week 1 – Functions, Conditionals
 - Learned how to use `if`, `elif`, and `else` for branching logic  
 - Practiced combining conditions using `and`, `or`, and `not`  
 - Explored Boolean values with `bool()` and True-False expressions  
