@@ -28,3 +28,18 @@ students = [
 for student in students:
     print(student["name"], student["house"], student["patronus"], sep=", ")
 ```
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <p><strong>Ohh.. my my you're still here?</strong></p>
+      <p>It's so hot, even my code is sweating—grab a Coke and pretend it's helping.</p>
+      <p><em>If you're reading this, you officially owe yourself a CS50 Coke. Cheers to debugging!</em></p>
+    </td>
+    <td>
+      <img src="https://cs50.harvard.edu/python/2022/psets/2/coke/coke.png" alt="CS50 Coke Machine" width="200">
+    </td>
+  </tr>
+</table>
+
+
