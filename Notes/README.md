@@ -14,7 +14,8 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 - Comments and clean code practices  
 - Debugging and identifying bugs  
 - Using Python’s interactive mode
-- [Week 0 Notes](https://github.com/IndoKris/CS50P-Journey/Notes/Week0.md)
+- 👉 [Read full Week 0 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week0.md)
+
 
 
 ### 🧮 Week 1 – Functions & Conditionals
