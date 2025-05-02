@@ -23,10 +23,8 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 - Boolean expressions: `and`, `or`, `not`  
 - Truthy and falsy values with `bool()`  
 - `match` and `case` statements with `|` for multiple matches  
-- Modulo operator `%` for even/odd checks  
-- Conditional expressions: `return True if ... else False`  
-- Pythonic simplifications: `return n % 2 == 0`  
-- Basic input-based interactive programs  
+- Modulo operator `%`
+-  👉 [Read full Week 1 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week1.md)
 
 ### 🔁 Week 2 – Loops & Data Structures
 - Looping with `while` and `for`  
@@ -35,12 +33,14 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 - `len()` for measuring data length  
 - Lists and iteration  
 - Basic use of dictionaries (`dict`)  
-- Introduction to `None` as a special value  
+- Introduction to `None` as a special value
+-  👉 [Read full Week 2 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week2.md)
 
 ### 📚 Week 3 – Exceptions
 - Exception handling with `try`, `except`, `else`, and `finally`  
 - Raising exceptions with `raise`  
-- Gracefully handling user input and program crashes  
+- Gracefully handling user input and program crashes
+-  👉 [Read full Week 3 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week3.md) 
 
 ### 📂 Week 4 – Libraries
 - Importing Python standard and third-party libraries  
