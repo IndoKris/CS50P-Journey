@@ -1,1 +1,5 @@
+# Week 2 Summary
 
+In week 2 of CS50 Python, I tackled loops and data structures. I learned `while` loops (repeating code until a condition changes) and `for` loops (looping over items in a list). It was cool how `range()` can automatically generate numbers for me, so I don't have to manually count. I played with `continue` and `break` to control loops – `continue` skips to the next iteration and `break` stops the loop early, which turned out handy when validating input.
+
+I used `len(my_list)` to get a list’s length easily. I was intrigued by dictionaries: they let me associate keys with values (like mapping names to houses) in a single variable. Lastly, learning that Python’s special value `None` basically means no value gave me an **aha** moment about how empty or missing values are handled. I did hit bumps (like an infinite loop when I forgot to update a counter), but fixing that felt satisfying. This week made loops and collections click for me, and I’m excited to apply these basics in future projects.
