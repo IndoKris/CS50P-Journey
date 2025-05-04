@@ -44,8 +44,10 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 
 ### 📂 Week 4 – Libraries
 - Importing Python standard and third-party libraries  
-- Working with `random`, `statistics`, `sys`, `emoji`  
-- Reading and navigating Python documentation  
+- Working with `random`, `statistics`, `sys`, `cowsays`  
+- Reading and navigating Python documentation , API and JSON
+- 👉 [Read full Week 4 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week4.md) 
+
 
 ### 📝 Week 5 – Unit Testing
 - Writing test cases with `pytest`  
