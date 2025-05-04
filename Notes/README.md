@@ -52,7 +52,8 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 ### 📝 Week 5 – Unit Testing
 - Writing test cases with `pytest`  
 - Structuring unit tests  
-- Verifying code functionality over time  
+- Verifying code functionality over time
+- 👉 [Read full Week 5 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week5.md) 
 
 ### 🔎 Week 6 – File I/O
 - Reading from and writing to `.txt` and `.csv` files  
