@@ -6,29 +6,18 @@ Here’s a categorized list based on difficulty level:
 
 ---
 
-# 🐣 Basic Level Projects (Beginner-Friendly)
+# 🐣 Basic Level Projects 
 
 > Focus: Functions, Loops, Libraries, Conditionals
-
-### 📅 Birthday Countdown
-- **Description:** Input your birth date and get how many days are left until your next birthday.
-- **Skills Practiced:** Date manipulation, conditionals, user input.
 
 ### 🎲 Dice Roller Simulator
 - **Description:** A CLI dice roller that simulates rolling different types of dice (6-sided, 12-sided, 20-sided, etc.).
 - **Skills Practiced:** Random number generation, loops, input validation.
 
-### 🧮 Simple Calculator
-- **Description:** Basic calculator that performs addition, subtraction, multiplication, and division.
-- **Skills Practiced:** Functions, error handling, user input parsing.
-
 ### 📧 Email Validator
 - **Description:** Validate user-inputted emails using regular expressions (`re` module).
 - **Skills Practiced:** Regex, string operations, input validation.
 
-### 🎵 Random Quote Generator
-- **Description:** Display a random quote each time the script is run.
-- **Skills Practiced:** Lists, random module, functions.
 
 ---
 
