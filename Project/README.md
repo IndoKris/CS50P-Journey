@@ -47,17 +47,9 @@ Here’s a categorized list based on difficulty level:
 - **Description:** Enter a city name to fetch real-time weather using the OpenWeatherMap API.
 - **Skills Practiced:** API requests, JSON parsing, error handling.
 
-### 🎮 Tic-Tac-Toe Game (vs Computer)
-- **Description:** A command-line based Tic-Tac-Toe game where you can play against a computer.
-- **Skills Practiced:** OOP concepts, game logic, random AI moves.
-
 ### 👤 Password Manager
 - **Description:** Save and retrieve passwords securely with encryption using the `cryptography` library.
 - **Skills Practiced:** File encryption, Python modules, security basics.
-
-### 📈 Crypto Price Tracker
-- **Description:** Track real-time cryptocurrency prices using a public API and visualize them.
-- **Skills Practiced:** API integration, real-time data fetching, plotting graphs (`matplotlib`).
 
 ### 🛒 Command-Line Shopping Cart
 - **Description:** Simulate an online shopping experience through the terminal — add/remove items and calculate total.
