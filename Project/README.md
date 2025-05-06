@@ -37,14 +37,6 @@ Here’s a categorized list based on difficulty level:
 - **Description:** Simulate URL shortening and store mappings in a JSON file.
 - **Skills Practiced:** Dictionaries, file operations, JSON handling.
 
-### 🧹 File Organizer
-- **Description:** Automatically sort and move files into folders based on their extensions (e.g., `.jpg`, `.pdf`).
-- **Skills Practiced:** File manipulation, OS module, automation scripting.
-
-### 📜 Text Analyzer
-- **Description:** Analyze a `.txt` file to find word count, character count, and most frequent words.
-- **Skills Practiced:** File handling, dictionaries, string processing.
-
 ---
 
 # 🚀 Advanced Level Projects
