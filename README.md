@@ -16,7 +16,6 @@ This repository documents everything I learned, built, and reflected upon during
 | Folder | Description |
 |:------|:------------|
 | `Notes/` | My handwritten notes and summaries for each week's lessons. |
-| `Projects/` | Mini-projects built to practice and extend my understanding beyond course problems. |
 | `FinalProject/` | My final capstone project for the course — a complete Python application. |
 
 ---
