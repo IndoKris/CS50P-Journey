@@ -58,12 +58,14 @@ This repository contains concise weekly notes from **CS50’s Introduction to Pr
 ### 🔎 Week 6 – File I/O
 - Reading from and writing to `.txt` and `.csv` files  
 - Using the `with` statement for safe file handling  
-- Performing basic file-based operations  
+- Performing basic file-based operations
+- 👉 [Read full Week 6 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week6.md)
 
 ### 🧬 Week 7 – Regular Expressions
 - Pattern matching using the `re` module  
 - Email validation and string substitution  
-- Using regex to clean or extract text data  
+- Using regex to clean or extract text data
+- 👉 [Read full Week 7 notes here](https://github.com/IndoKris/CS50P-Journey/blob/main/Notes/Week7.md)
 
 ### 🧱 Week 8 – Object-Oriented Programming
 - Creating classes with `class`, `__init__`, and `self`  
