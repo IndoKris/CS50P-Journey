@@ -19,7 +19,7 @@ if __name__ == "__main__":
 ```
 Now using this file's function in another file test_calculator.py
 ```python
-Use the following program and provide me the output which shows error while using pytest;
+
   import pytest
 
   from calculator import square
