@@ -32,6 +32,7 @@ This type of file can store anything including, music and image data.
 There is a popular Python library called PIL that works well with image files.
 Animated GIFs are a popular type of image file that has many image files within it that are played in sequence over and over again, creating a simplistic animation or video effect.
 Imagine that we have a series of costumes, as illustrated below.
+
 Here is costume1.gif.
 
 ![image](https://github.com/user-attachments/assets/b1e4a6f2-a14d-456f-adfc-6ad687cbaa37)
