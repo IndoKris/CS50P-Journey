@@ -36,9 +36,11 @@ This repository documents everything I learned, built, and reflected upon during
 
 ## 🌟 Final Project
 
-**Project Name:** _[To Be Added]_  
-**Description:** _[Short description of your final project once done]_  
-**Technologies Used:** _Python, [other libraries if any]_  
+**Project Name:** EduMaze
+
+**Description:** Personalized Quiz Generator from Wikipedia
+
+**Technologies Used:** _Python,Wikipedia API,Standard Python Modules (random, re, string, sys, textwrap) ,etc._
 
 ---
 
