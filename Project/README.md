@@ -1,71 +1,55 @@
+# 📘 EduMaze – Personalized CLI Quiz Generator from Wikipedia
 
-## 🛠️ Projects Showcase
-
-During my CS50P journey, I built various mini-projects to strengthen my Python skills.  
-Here’s a categorized list based on difficulty level:
+**EduMaze** is a command-line Python application that lets you generate personalized multiple-choice quizzes from any topic using real-time Wikipedia content. Whether you're preparing for exams, testing your general knowledge, or exploring new topics, EduMaze makes learning fun through interactive quizzes — all from your terminal.
 
 ---
 
-# 🐣 Basic Level Projects 
+## 🎯 Features
 
-> Focus: Functions, Loops, Libraries, Conditionals
+- 🔍 **Topic-Based Quiz Generation**  
+  Input any topic (e.g., "Photosynthesis", "Albert Einstein") and instantly get a custom quiz.
 
-### 🎲 Dice Roller Simulator
-- **Description:** A CLI dice roller that simulates rolling different types of dice (6-sided, 12-sided, 20-sided, etc.).
-- **Skills Practiced:** Random number generation, loops, input validation.
+- 🧠 **Wikipedia Integration**  
+  Pulls factual data directly from Wikipedia summaries using the `wikipedia` module.
 
-### 📧 Email Validator
-- **Description:** Validate user-inputted emails using regular expressions (`re` module).
-- **Skills Practiced:** Regex, string operations, input validation.
+- 🎮 **Interactive CLI Quiz Experience**  
+  Presents multiple-choice questions with randomized options and real-time feedback.
 
+- 🧾 **Scoring System**  
+  Tracks and displays your final score after each quiz session.
 
----
-
-# 🔥 Intermediate Level Projects
-
-> Focus: File I/O, Exceptions, Regex, Data Storage
-
-### 📚 Personal Library Manager
-- **Description:** Add, search, and remove books from a personal library stored in a `.csv` file.
-- **Skills Practiced:** File reading/writing, exception handling.
-
-### 🗂️ Expense Tracker
-- **Description:** Track daily expenses, save them into a `.csv` file, and generate monthly reports.
-- **Skills Practiced:** File I/O, data structures, basic data analysis.
-
-### 🔎 URL Shortener (CLI Version)
-- **Description:** Simulate URL shortening and store mappings in a JSON file.
-- **Skills Practiced:** Dictionaries, file operations, JSON handling.
+- 🎨 **Optional CLI Styling**  
+  Uses `colorama` or `rich` for colored output and enhanced terminal UX.
 
 ---
 
-# 🚀 Advanced Level Projects
+## 🛠️ Technologies Used
 
-> Focus: APIs, OOP, Modules, Advanced Scripting
-
-### 🌦️ Weather App (CLI)
-- **Description:** Enter a city name to fetch real-time weather using the OpenWeatherMap API.
-- **Skills Practiced:** API requests, JSON parsing, error handling.
-
-### 👤 Password Manager
-- **Description:** Save and retrieve passwords securely with encryption using the `cryptography` library.
-- **Skills Practiced:** File encryption, Python modules, security basics.
-
-### 🛒 Command-Line Shopping Cart
-- **Description:** Simulate an online shopping experience through the terminal — add/remove items and calculate total.
-- **Skills Practiced:** Classes, lists, dictionaries, file storage.
+| Technology       | Purpose                                      |
+|------------------|----------------------------------------------|
+| **Python 3**     | Core programming language                    |
+| `wikipedia`      | Fetches topic summaries from Wikipedia       |
+| `random`         | Randomizes quiz options                      |
+| `re`, `textwrap` | Text parsing and CLI formatting              |
+| `colorama`       | (Optional) Adds color to terminal output     |
+| `rich` (optional)| (Alternative) Advanced CLI visuals           |
 
 ---
 
-# 🚀 How To Run These Projects
+## 📦 Installation
 
-If the project uses external libraries, install them using:
 ```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/edumaze.git
+cd edumaze
+
+# 2. (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # On Windows use: venv\Scripts\activate
+
+# 3. Install dependencies
 pip install -r requirements.txt
-```
-Most projects can be run simply via:
-```bash
-python filename.py
-```
 
-(Each project folder contains its own README for setup instructions.)
+# Run the app
+python edumaze.py
+
